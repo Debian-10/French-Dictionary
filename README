@@ -8,5 +8,5 @@
 
 DESCRIPTION
 	Txt files containing all french adjectives, adverbs, conjunctions, determiners, nouns,
-	prepositions, pronouns, verbs and their gender, types and conjugations.
+	prepositions, pronouns, verbs (+infinitives).
 	This can be helpful for creating a spell and/or a grammar checker for french.
